@@ -30,6 +30,9 @@ namespace AulaVetores
                 Console.WriteLine(quartos[numero[i]].ToString());
             }
 
+            Console.WriteLine("auuii");
+            Console.WriteLine("assss");
+
         }
     }
 }
