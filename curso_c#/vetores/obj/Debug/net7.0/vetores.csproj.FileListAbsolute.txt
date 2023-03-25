@@ -1,0 +1,15 @@
+/home/laio/Documentos/programacao/cursoC#/vetores/bin/Debug/net7.0/vetores
+/home/laio/Documentos/programacao/cursoC#/vetores/bin/Debug/net7.0/vetores.deps.json
+/home/laio/Documentos/programacao/cursoC#/vetores/bin/Debug/net7.0/vetores.runtimeconfig.json
+/home/laio/Documentos/programacao/cursoC#/vetores/bin/Debug/net7.0/vetores.dll
+/home/laio/Documentos/programacao/cursoC#/vetores/bin/Debug/net7.0/vetores.pdb
+/home/laio/Documentos/programacao/cursoC#/vetores/obj/Debug/net7.0/vetores.csproj.AssemblyReference.cache
+/home/laio/Documentos/programacao/cursoC#/vetores/obj/Debug/net7.0/vetores.GeneratedMSBuildEditorConfig.editorconfig
+/home/laio/Documentos/programacao/cursoC#/vetores/obj/Debug/net7.0/vetores.AssemblyInfoInputs.cache
+/home/laio/Documentos/programacao/cursoC#/vetores/obj/Debug/net7.0/vetores.AssemblyInfo.cs
+/home/laio/Documentos/programacao/cursoC#/vetores/obj/Debug/net7.0/vetores.csproj.CoreCompileInputs.cache
+/home/laio/Documentos/programacao/cursoC#/vetores/obj/Debug/net7.0/vetores.dll
+/home/laio/Documentos/programacao/cursoC#/vetores/obj/Debug/net7.0/refint/vetores.dll
+/home/laio/Documentos/programacao/cursoC#/vetores/obj/Debug/net7.0/vetores.pdb
+/home/laio/Documentos/programacao/cursoC#/vetores/obj/Debug/net7.0/vetores.genruntimeconfig.cache
+/home/laio/Documentos/programacao/cursoC#/vetores/obj/Debug/net7.0/ref/vetores.dll

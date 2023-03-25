@@ -1,0 +1,15 @@
+c:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\ExercicioStatic\bin\Debug\net7.0\ExercicioStatic.exe
+c:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\ExercicioStatic\bin\Debug\net7.0\ExercicioStatic.deps.json
+c:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\ExercicioStatic\bin\Debug\net7.0\ExercicioStatic.runtimeconfig.json
+c:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\ExercicioStatic\bin\Debug\net7.0\ExercicioStatic.dll
+c:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\ExercicioStatic\bin\Debug\net7.0\ExercicioStatic.pdb
+c:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\ExercicioStatic\obj\Debug\net7.0\ExercicioStatic.csproj.AssemblyReference.cache
+c:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\ExercicioStatic\obj\Debug\net7.0\ExercicioStatic.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\ExercicioStatic\obj\Debug\net7.0\ExercicioStatic.AssemblyInfoInputs.cache
+c:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\ExercicioStatic\obj\Debug\net7.0\ExercicioStatic.AssemblyInfo.cs
+c:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\ExercicioStatic\obj\Debug\net7.0\ExercicioStatic.csproj.CoreCompileInputs.cache
+c:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\ExercicioStatic\obj\Debug\net7.0\ExercicioStatic.dll
+c:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\ExercicioStatic\obj\Debug\net7.0\refint\ExercicioStatic.dll
+c:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\ExercicioStatic\obj\Debug\net7.0\ExercicioStatic.pdb
+c:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\ExercicioStatic\obj\Debug\net7.0\ExercicioStatic.genruntimeconfig.cache
+c:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\ExercicioStatic\obj\Debug\net7.0\ref\ExercicioStatic.dll

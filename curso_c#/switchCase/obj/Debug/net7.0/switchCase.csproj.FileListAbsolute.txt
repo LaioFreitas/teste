@@ -1,0 +1,15 @@
+/home/laio/Documentos/curso_c#/switchCase/bin/Debug/net7.0/switchCase
+/home/laio/Documentos/curso_c#/switchCase/bin/Debug/net7.0/switchCase.deps.json
+/home/laio/Documentos/curso_c#/switchCase/bin/Debug/net7.0/switchCase.runtimeconfig.json
+/home/laio/Documentos/curso_c#/switchCase/bin/Debug/net7.0/switchCase.dll
+/home/laio/Documentos/curso_c#/switchCase/bin/Debug/net7.0/switchCase.pdb
+/home/laio/Documentos/curso_c#/switchCase/obj/Debug/net7.0/switchCase.csproj.AssemblyReference.cache
+/home/laio/Documentos/curso_c#/switchCase/obj/Debug/net7.0/switchCase.GeneratedMSBuildEditorConfig.editorconfig
+/home/laio/Documentos/curso_c#/switchCase/obj/Debug/net7.0/switchCase.AssemblyInfoInputs.cache
+/home/laio/Documentos/curso_c#/switchCase/obj/Debug/net7.0/switchCase.AssemblyInfo.cs
+/home/laio/Documentos/curso_c#/switchCase/obj/Debug/net7.0/switchCase.csproj.CoreCompileInputs.cache
+/home/laio/Documentos/curso_c#/switchCase/obj/Debug/net7.0/switchCase.dll
+/home/laio/Documentos/curso_c#/switchCase/obj/Debug/net7.0/refint/switchCase.dll
+/home/laio/Documentos/curso_c#/switchCase/obj/Debug/net7.0/switchCase.pdb
+/home/laio/Documentos/curso_c#/switchCase/obj/Debug/net7.0/switchCase.genruntimeconfig.cache
+/home/laio/Documentos/curso_c#/switchCase/obj/Debug/net7.0/ref/switchCase.dll

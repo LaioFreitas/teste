@@ -1,0 +1,15 @@
+C:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\AtividadeMatriz\bin\Debug\net7.0\AtividadeMatriz.exe
+C:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\AtividadeMatriz\bin\Debug\net7.0\AtividadeMatriz.deps.json
+C:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\AtividadeMatriz\bin\Debug\net7.0\AtividadeMatriz.runtimeconfig.json
+C:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\AtividadeMatriz\bin\Debug\net7.0\AtividadeMatriz.dll
+C:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\AtividadeMatriz\bin\Debug\net7.0\AtividadeMatriz.pdb
+C:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\AtividadeMatriz\obj\Debug\net7.0\AtividadeMatriz.csproj.AssemblyReference.cache
+C:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\AtividadeMatriz\obj\Debug\net7.0\AtividadeMatriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\AtividadeMatriz\obj\Debug\net7.0\AtividadeMatriz.AssemblyInfoInputs.cache
+C:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\AtividadeMatriz\obj\Debug\net7.0\AtividadeMatriz.AssemblyInfo.cs
+C:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\AtividadeMatriz\obj\Debug\net7.0\AtividadeMatriz.csproj.CoreCompileInputs.cache
+C:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\AtividadeMatriz\obj\Debug\net7.0\AtividadeMatriz.dll
+C:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\AtividadeMatriz\obj\Debug\net7.0\refint\AtividadeMatriz.dll
+C:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\AtividadeMatriz\obj\Debug\net7.0\AtividadeMatriz.pdb
+C:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\AtividadeMatriz\obj\Debug\net7.0\AtividadeMatriz.genruntimeconfig.cache
+C:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\AtividadeMatriz\obj\Debug\net7.0\ref\AtividadeMatriz.dll

@@ -1,0 +1,15 @@
+/home/laio/Documentos/curso_c#/DateTime/bin/Debug/net7.0/DateTime
+/home/laio/Documentos/curso_c#/DateTime/bin/Debug/net7.0/DateTime.deps.json
+/home/laio/Documentos/curso_c#/DateTime/bin/Debug/net7.0/DateTime.runtimeconfig.json
+/home/laio/Documentos/curso_c#/DateTime/bin/Debug/net7.0/DateTime.dll
+/home/laio/Documentos/curso_c#/DateTime/bin/Debug/net7.0/DateTime.pdb
+/home/laio/Documentos/curso_c#/DateTime/obj/Debug/net7.0/DateTime.csproj.AssemblyReference.cache
+/home/laio/Documentos/curso_c#/DateTime/obj/Debug/net7.0/DateTime.GeneratedMSBuildEditorConfig.editorconfig
+/home/laio/Documentos/curso_c#/DateTime/obj/Debug/net7.0/DateTime.AssemblyInfoInputs.cache
+/home/laio/Documentos/curso_c#/DateTime/obj/Debug/net7.0/DateTime.AssemblyInfo.cs
+/home/laio/Documentos/curso_c#/DateTime/obj/Debug/net7.0/DateTime.csproj.CoreCompileInputs.cache
+/home/laio/Documentos/curso_c#/DateTime/obj/Debug/net7.0/DateTime.dll
+/home/laio/Documentos/curso_c#/DateTime/obj/Debug/net7.0/refint/DateTime.dll
+/home/laio/Documentos/curso_c#/DateTime/obj/Debug/net7.0/DateTime.pdb
+/home/laio/Documentos/curso_c#/DateTime/obj/Debug/net7.0/DateTime.genruntimeconfig.cache
+/home/laio/Documentos/curso_c#/DateTime/obj/Debug/net7.0/ref/DateTime.dll

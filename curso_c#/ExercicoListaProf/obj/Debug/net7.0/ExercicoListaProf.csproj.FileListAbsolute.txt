@@ -1,0 +1,15 @@
+C:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\ExercicoListaProf\bin\Debug\net7.0\ExercicoListaProf.exe
+C:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\ExercicoListaProf\bin\Debug\net7.0\ExercicoListaProf.deps.json
+C:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\ExercicoListaProf\bin\Debug\net7.0\ExercicoListaProf.runtimeconfig.json
+C:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\ExercicoListaProf\bin\Debug\net7.0\ExercicoListaProf.dll
+C:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\ExercicoListaProf\bin\Debug\net7.0\ExercicoListaProf.pdb
+C:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\ExercicoListaProf\obj\Debug\net7.0\ExercicoListaProf.csproj.AssemblyReference.cache
+C:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\ExercicoListaProf\obj\Debug\net7.0\ExercicoListaProf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\ExercicoListaProf\obj\Debug\net7.0\ExercicoListaProf.AssemblyInfoInputs.cache
+C:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\ExercicoListaProf\obj\Debug\net7.0\ExercicoListaProf.AssemblyInfo.cs
+C:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\ExercicoListaProf\obj\Debug\net7.0\ExercicoListaProf.csproj.CoreCompileInputs.cache
+C:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\ExercicoListaProf\obj\Debug\net7.0\ExercicoListaProf.dll
+C:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\ExercicoListaProf\obj\Debug\net7.0\refint\ExercicoListaProf.dll
+C:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\ExercicoListaProf\obj\Debug\net7.0\ExercicoListaProf.pdb
+C:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\ExercicoListaProf\obj\Debug\net7.0\ExercicoListaProf.genruntimeconfig.cache
+C:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\ExercicoListaProf\obj\Debug\net7.0\ref\ExercicoListaProf.dll

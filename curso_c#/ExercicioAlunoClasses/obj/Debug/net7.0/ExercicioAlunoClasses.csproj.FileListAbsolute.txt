@@ -1,0 +1,15 @@
+c:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\ExercicioAlunoClasses\bin\Debug\net7.0\ExercicioAlunoClasses.exe
+c:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\ExercicioAlunoClasses\bin\Debug\net7.0\ExercicioAlunoClasses.deps.json
+c:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\ExercicioAlunoClasses\bin\Debug\net7.0\ExercicioAlunoClasses.runtimeconfig.json
+c:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\ExercicioAlunoClasses\bin\Debug\net7.0\ExercicioAlunoClasses.dll
+c:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\ExercicioAlunoClasses\bin\Debug\net7.0\ExercicioAlunoClasses.pdb
+c:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\ExercicioAlunoClasses\obj\Debug\net7.0\ExercicioAlunoClasses.csproj.AssemblyReference.cache
+c:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\ExercicioAlunoClasses\obj\Debug\net7.0\ExercicioAlunoClasses.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\ExercicioAlunoClasses\obj\Debug\net7.0\ExercicioAlunoClasses.AssemblyInfoInputs.cache
+c:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\ExercicioAlunoClasses\obj\Debug\net7.0\ExercicioAlunoClasses.AssemblyInfo.cs
+c:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\ExercicioAlunoClasses\obj\Debug\net7.0\ExercicioAlunoClasses.csproj.CoreCompileInputs.cache
+c:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\ExercicioAlunoClasses\obj\Debug\net7.0\ExercicioAlunoClasses.dll
+c:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\ExercicioAlunoClasses\obj\Debug\net7.0\refint\ExercicioAlunoClasses.dll
+c:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\ExercicioAlunoClasses\obj\Debug\net7.0\ExercicioAlunoClasses.pdb
+c:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\ExercicioAlunoClasses\obj\Debug\net7.0\ExercicioAlunoClasses.genruntimeconfig.cache
+c:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\ExercicioAlunoClasses\obj\Debug\net7.0\ref\ExercicioAlunoClasses.dll

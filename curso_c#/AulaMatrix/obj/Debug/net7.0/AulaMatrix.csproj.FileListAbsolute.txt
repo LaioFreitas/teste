@@ -1,0 +1,15 @@
+C:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\AulaMatrix\obj\Debug\net7.0\AulaMatrix.csproj.AssemblyReference.cache
+C:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\AulaMatrix\obj\Debug\net7.0\AulaMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\AulaMatrix\obj\Debug\net7.0\AulaMatrix.AssemblyInfoInputs.cache
+C:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\AulaMatrix\obj\Debug\net7.0\AulaMatrix.AssemblyInfo.cs
+C:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\AulaMatrix\obj\Debug\net7.0\AulaMatrix.csproj.CoreCompileInputs.cache
+C:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\AulaMatrix\bin\Debug\net7.0\AulaMatrix.exe
+C:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\AulaMatrix\bin\Debug\net7.0\AulaMatrix.deps.json
+C:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\AulaMatrix\bin\Debug\net7.0\AulaMatrix.runtimeconfig.json
+C:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\AulaMatrix\bin\Debug\net7.0\AulaMatrix.dll
+C:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\AulaMatrix\bin\Debug\net7.0\AulaMatrix.pdb
+C:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\AulaMatrix\obj\Debug\net7.0\AulaMatrix.dll
+C:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\AulaMatrix\obj\Debug\net7.0\refint\AulaMatrix.dll
+C:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\AulaMatrix\obj\Debug\net7.0\AulaMatrix.pdb
+C:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\AulaMatrix\obj\Debug\net7.0\AulaMatrix.genruntimeconfig.cache
+C:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\AulaMatrix\obj\Debug\net7.0\ref\AulaMatrix.dll

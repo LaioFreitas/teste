@@ -1,0 +1,15 @@
+C:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\exercicio3Console\bin\Debug\net7.0\exercicio3Console.exe
+C:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\exercicio3Console\bin\Debug\net7.0\exercicio3Console.deps.json
+C:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\exercicio3Console\bin\Debug\net7.0\exercicio3Console.runtimeconfig.json
+C:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\exercicio3Console\bin\Debug\net7.0\exercicio3Console.dll
+C:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\exercicio3Console\bin\Debug\net7.0\exercicio3Console.pdb
+C:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\exercicio3Console\obj\Debug\net7.0\exercicio3Console.csproj.AssemblyReference.cache
+C:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\exercicio3Console\obj\Debug\net7.0\exercicio3Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\exercicio3Console\obj\Debug\net7.0\exercicio3Console.AssemblyInfoInputs.cache
+C:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\exercicio3Console\obj\Debug\net7.0\exercicio3Console.AssemblyInfo.cs
+C:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\exercicio3Console\obj\Debug\net7.0\exercicio3Console.csproj.CoreCompileInputs.cache
+C:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\exercicio3Console\obj\Debug\net7.0\exercicio3Console.dll
+C:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\exercicio3Console\obj\Debug\net7.0\refint\exercicio3Console.dll
+C:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\exercicio3Console\obj\Debug\net7.0\exercicio3Console.pdb
+C:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\exercicio3Console\obj\Debug\net7.0\exercicio3Console.genruntimeconfig.cache
+C:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\exercicio3Console\obj\Debug\net7.0\ref\exercicio3Console.dll

@@ -1,0 +1,15 @@
+/home/laio/Documentos/programacao/cursoC#/AutoPropiestes/bin/Debug/net7.0/AutoPropertiess
+/home/laio/Documentos/programacao/cursoC#/AutoPropiestes/bin/Debug/net7.0/AutoPropertiess.deps.json
+/home/laio/Documentos/programacao/cursoC#/AutoPropiestes/bin/Debug/net7.0/AutoPropertiess.runtimeconfig.json
+/home/laio/Documentos/programacao/cursoC#/AutoPropiestes/bin/Debug/net7.0/AutoPropertiess.dll
+/home/laio/Documentos/programacao/cursoC#/AutoPropiestes/bin/Debug/net7.0/AutoPropertiess.pdb
+/home/laio/Documentos/programacao/cursoC#/AutoPropiestes/obj/Debug/net7.0/AutoPropertiess.csproj.AssemblyReference.cache
+/home/laio/Documentos/programacao/cursoC#/AutoPropiestes/obj/Debug/net7.0/AutoPropertiess.GeneratedMSBuildEditorConfig.editorconfig
+/home/laio/Documentos/programacao/cursoC#/AutoPropiestes/obj/Debug/net7.0/AutoPropertiess.AssemblyInfoInputs.cache
+/home/laio/Documentos/programacao/cursoC#/AutoPropiestes/obj/Debug/net7.0/AutoPropertiess.AssemblyInfo.cs
+/home/laio/Documentos/programacao/cursoC#/AutoPropiestes/obj/Debug/net7.0/AutoPropertiess.csproj.CoreCompileInputs.cache
+/home/laio/Documentos/programacao/cursoC#/AutoPropiestes/obj/Debug/net7.0/AutoPropertiess.dll
+/home/laio/Documentos/programacao/cursoC#/AutoPropiestes/obj/Debug/net7.0/refint/AutoPropertiess.dll
+/home/laio/Documentos/programacao/cursoC#/AutoPropiestes/obj/Debug/net7.0/AutoPropertiess.pdb
+/home/laio/Documentos/programacao/cursoC#/AutoPropiestes/obj/Debug/net7.0/AutoPropertiess.genruntimeconfig.cache
+/home/laio/Documentos/programacao/cursoC#/AutoPropiestes/obj/Debug/net7.0/ref/AutoPropertiess.dll

@@ -1,0 +1,15 @@
+/home/laio/Documentos/programacao/cursoC#/Propriedade/bin/Debug/net7.0/Propriedade
+/home/laio/Documentos/programacao/cursoC#/Propriedade/bin/Debug/net7.0/Propriedade.deps.json
+/home/laio/Documentos/programacao/cursoC#/Propriedade/bin/Debug/net7.0/Propriedade.runtimeconfig.json
+/home/laio/Documentos/programacao/cursoC#/Propriedade/bin/Debug/net7.0/Propriedade.dll
+/home/laio/Documentos/programacao/cursoC#/Propriedade/bin/Debug/net7.0/Propriedade.pdb
+/home/laio/Documentos/programacao/cursoC#/Propriedade/obj/Debug/net7.0/Propriedade.csproj.AssemblyReference.cache
+/home/laio/Documentos/programacao/cursoC#/Propriedade/obj/Debug/net7.0/Propriedade.GeneratedMSBuildEditorConfig.editorconfig
+/home/laio/Documentos/programacao/cursoC#/Propriedade/obj/Debug/net7.0/Propriedade.AssemblyInfoInputs.cache
+/home/laio/Documentos/programacao/cursoC#/Propriedade/obj/Debug/net7.0/Propriedade.AssemblyInfo.cs
+/home/laio/Documentos/programacao/cursoC#/Propriedade/obj/Debug/net7.0/Propriedade.csproj.CoreCompileInputs.cache
+/home/laio/Documentos/programacao/cursoC#/Propriedade/obj/Debug/net7.0/Propriedade.dll
+/home/laio/Documentos/programacao/cursoC#/Propriedade/obj/Debug/net7.0/refint/Propriedade.dll
+/home/laio/Documentos/programacao/cursoC#/Propriedade/obj/Debug/net7.0/Propriedade.pdb
+/home/laio/Documentos/programacao/cursoC#/Propriedade/obj/Debug/net7.0/Propriedade.genruntimeconfig.cache
+/home/laio/Documentos/programacao/cursoC#/Propriedade/obj/Debug/net7.0/ref/Propriedade.dll

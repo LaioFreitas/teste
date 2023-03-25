@@ -1,0 +1,15 @@
+C:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\ExercicioConta\bin\Debug\net7.0\ExercicioConta.exe
+C:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\ExercicioConta\bin\Debug\net7.0\ExercicioConta.deps.json
+C:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\ExercicioConta\bin\Debug\net7.0\ExercicioConta.runtimeconfig.json
+C:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\ExercicioConta\bin\Debug\net7.0\ExercicioConta.dll
+C:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\ExercicioConta\bin\Debug\net7.0\ExercicioConta.pdb
+C:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\ExercicioConta\obj\Debug\net7.0\ExercicioConta.csproj.AssemblyReference.cache
+C:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\ExercicioConta\obj\Debug\net7.0\ExercicioConta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\ExercicioConta\obj\Debug\net7.0\ExercicioConta.AssemblyInfoInputs.cache
+C:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\ExercicioConta\obj\Debug\net7.0\ExercicioConta.AssemblyInfo.cs
+C:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\ExercicioConta\obj\Debug\net7.0\ExercicioConta.csproj.CoreCompileInputs.cache
+C:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\ExercicioConta\obj\Debug\net7.0\ExercicioConta.dll
+C:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\ExercicioConta\obj\Debug\net7.0\refint\ExercicioConta.dll
+C:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\ExercicioConta\obj\Debug\net7.0\ExercicioConta.pdb
+C:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\ExercicioConta\obj\Debug\net7.0\ExercicioConta.genruntimeconfig.cache
+C:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\ExercicioConta\obj\Debug\net7.0\ref\ExercicioConta.dll

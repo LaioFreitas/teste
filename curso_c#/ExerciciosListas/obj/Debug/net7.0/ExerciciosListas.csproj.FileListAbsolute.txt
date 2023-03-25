@@ -1,0 +1,15 @@
+/home/laio/Documentos/programacao/cursoC#/ExerciciosListas/bin/Debug/net7.0/ExerciciosListas
+/home/laio/Documentos/programacao/cursoC#/ExerciciosListas/bin/Debug/net7.0/ExerciciosListas.deps.json
+/home/laio/Documentos/programacao/cursoC#/ExerciciosListas/bin/Debug/net7.0/ExerciciosListas.runtimeconfig.json
+/home/laio/Documentos/programacao/cursoC#/ExerciciosListas/bin/Debug/net7.0/ExerciciosListas.dll
+/home/laio/Documentos/programacao/cursoC#/ExerciciosListas/bin/Debug/net7.0/ExerciciosListas.pdb
+/home/laio/Documentos/programacao/cursoC#/ExerciciosListas/obj/Debug/net7.0/ExerciciosListas.csproj.AssemblyReference.cache
+/home/laio/Documentos/programacao/cursoC#/ExerciciosListas/obj/Debug/net7.0/ExerciciosListas.GeneratedMSBuildEditorConfig.editorconfig
+/home/laio/Documentos/programacao/cursoC#/ExerciciosListas/obj/Debug/net7.0/ExerciciosListas.AssemblyInfoInputs.cache
+/home/laio/Documentos/programacao/cursoC#/ExerciciosListas/obj/Debug/net7.0/ExerciciosListas.AssemblyInfo.cs
+/home/laio/Documentos/programacao/cursoC#/ExerciciosListas/obj/Debug/net7.0/ExerciciosListas.csproj.CoreCompileInputs.cache
+/home/laio/Documentos/programacao/cursoC#/ExerciciosListas/obj/Debug/net7.0/ExerciciosListas.dll
+/home/laio/Documentos/programacao/cursoC#/ExerciciosListas/obj/Debug/net7.0/refint/ExerciciosListas.dll
+/home/laio/Documentos/programacao/cursoC#/ExerciciosListas/obj/Debug/net7.0/ExerciciosListas.pdb
+/home/laio/Documentos/programacao/cursoC#/ExerciciosListas/obj/Debug/net7.0/ExerciciosListas.genruntimeconfig.cache
+/home/laio/Documentos/programacao/cursoC#/ExerciciosListas/obj/Debug/net7.0/ref/ExerciciosListas.dll

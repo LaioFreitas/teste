@@ -1,0 +1,15 @@
+c:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\execicios_sequenciais\obj\Debug\net7.0\execicios_sequenciais.csproj.AssemblyReference.cache
+c:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\execicios_sequenciais\obj\Debug\net7.0\execicios_sequenciais.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\execicios_sequenciais\obj\Debug\net7.0\execicios_sequenciais.AssemblyInfoInputs.cache
+c:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\execicios_sequenciais\obj\Debug\net7.0\execicios_sequenciais.AssemblyInfo.cs
+c:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\execicios_sequenciais\obj\Debug\net7.0\execicios_sequenciais.csproj.CoreCompileInputs.cache
+c:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\execicios_sequenciais\bin\Debug\net7.0\execicios_sequenciais.exe
+c:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\execicios_sequenciais\bin\Debug\net7.0\execicios_sequenciais.deps.json
+c:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\execicios_sequenciais\bin\Debug\net7.0\execicios_sequenciais.runtimeconfig.json
+c:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\execicios_sequenciais\bin\Debug\net7.0\execicios_sequenciais.dll
+c:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\execicios_sequenciais\bin\Debug\net7.0\execicios_sequenciais.pdb
+c:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\execicios_sequenciais\obj\Debug\net7.0\execicios_sequenciais.dll
+c:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\execicios_sequenciais\obj\Debug\net7.0\refint\execicios_sequenciais.dll
+c:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\execicios_sequenciais\obj\Debug\net7.0\execicios_sequenciais.pdb
+c:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\execicios_sequenciais\obj\Debug\net7.0\execicios_sequenciais.genruntimeconfig.cache
+c:\Users\laiof\OneDrive\Documentos\progamação\curso_c#\execicios_sequenciais\obj\Debug\net7.0\ref\execicios_sequenciais.dll
